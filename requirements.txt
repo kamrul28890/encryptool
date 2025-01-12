@@ -1,0 +1,4 @@
+# Automatically generated requirements file
+# Run `pip freeze > requirements.txt` to update
+
+tkinter
