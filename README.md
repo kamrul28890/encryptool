@@ -1,4 +1,4 @@
-# CryptoTool
+# EnCryptTool
 
 A Python-based cryptography tool for encrypting, decrypting, hashing, and securely deleting files.
 
